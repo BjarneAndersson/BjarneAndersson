@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Bjarne Andersson
+- 👀 I’m interested in Python programming
+- 🌱 I’m currently learning intermediate python technics
+- 📫 How to reach me bjarne4andersson@gmail.com
