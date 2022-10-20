@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Bjarne Andersson
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning intermediate python technics
-- 📫 How to reach me bjarne4andersson@gmail.com
+- 👀 I’m interested in neural networks and optimization
+- 🌱 I’m currently learning the basic techniques of golang
+- 📫 How to reach me bjarne.andersson@proton.me
